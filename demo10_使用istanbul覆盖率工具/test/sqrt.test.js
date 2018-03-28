@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var My = require('../My');
+var My = require('../src/My');
 
 describe("sqrt", function() {
 
